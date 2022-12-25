@@ -6,4 +6,4 @@ This is a python code written in Kaggle environment for prediction pets populari
 
 It's my pleasure if we are in touch on Kaggle!
 
-https://www.kaggle.com/code/vafaknm/svm-lr-rf-ann-for-diabetes-prediction
+https://www.kaggle.com/code/vafaknm/ml-dl-regressions-for-pets-popularity-prediction
